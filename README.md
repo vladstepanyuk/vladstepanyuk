@@ -7,5 +7,6 @@
         <li>💻 I'm a novice backend developer</li>
         <li>📚 I'm currently learning distributed systems and database development</li>
         <li>📚 I'm mainly program in C/C++ and Golang</li>
+        <li>📚 Interned at Yandex Browser</li>
     </ul>
 </div>
